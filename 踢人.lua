@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("这只是个玩笑，傻孩子")
